@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DotNetAI.API/DotNetAI.API.csproj" />
+    <Project Path="src/DotNetAI.Core/DotNetAI.Core.csproj" />
+    <Project Path="src/DotNetAI.Infrastructure/DotNetAI.Infrastructure.csproj" />
+  </Folder>
+</Solution>
